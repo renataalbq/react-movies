@@ -1,6 +1,3 @@
-<h1 align="center">React Movies</h1> 
-
-
 ![](./assets/newBanner.png)
 
 
